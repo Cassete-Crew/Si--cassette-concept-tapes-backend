@@ -17,6 +17,10 @@
     "boiler plate",
     "node"
   ],
+  "engines": {
+    "npm": "8.19.2",
+    "node": "16.18.1"
+  },
   "author": "callan brombacher",
   "license": "MIT",
   "dependencies": {
